@@ -1,0 +1,8 @@
+Grupo 4
+77459 - Henrique Lourenço
+78215 - José Touret
+
+Para o transdutor que traduz números arábicos para romanos, decidimos fazer um tradutor de romanos para arábicos e invertê-lo.
+Os transdutores 1 e 2 não verificam se a frase termina em “_”.
+O Codificador foi obtido a partir do resultado da composição dos transdutores um e dois composto com o transdutor 3
+O Descodificador foi obtido a partir do reverse do Codificador
