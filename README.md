@@ -1,2 +1,3 @@
-# Natural-Language-
-Natural Language project IST
+# Projecto Língua Natural IST 2017/1028
+
+# FIM
