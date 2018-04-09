@@ -1,0 +1,6 @@
+#Grupo 5
+#Henrique Lourenço - 77459
+#José Touret - 78215
+#VIABILIDADE
+
+A viabilidade do sistema desenvolvido vai depender fortemente do corpora disponível. Usando n-gramas, quanto maior o n mais viável será o resultado já que tem mais em conta o contexto da palavra em questão. Usando unigramas o resultado será a opção que aparece mais vezes no corpora o que não é muito viável a menos que o corpora seja muito vasto e a contagem da opção escolhida seja muito alta em relação às restantes
