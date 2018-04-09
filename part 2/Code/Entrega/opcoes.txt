@@ -1,0 +1,8 @@
+#Grupo 5
+#Henrique Lourenço - 77459
+#José Touret - 78215
+#OPÇÕES
+
+Quando fizemos os n-gramas retirámos a pontuação.
+Para a contagem de n-gramas usámos o site http://guidetodatamining.com/ngramAnalyzer/ e formatámos de acordo com o enunciado
+Para o alisamento de n-gramas usámos alisamento de LaPlace implementado no ficheiro Smooth.py que recebe um ficheiro com unigramas e bigramas não alisados. Não trata do alisamento de bigramas que não estão no corpus dando valor unitário a esse bigrama
