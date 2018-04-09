@@ -1,0 +1,3 @@
+Quando fizemos os n-gramas retirámos a pontuação.
+Para a contagem de n-gramas usámos o site http://guidetodatamining.com/ngramAnalyzer/
+Para o alisamento de n-gramas usámos alisamento de LaPlace
