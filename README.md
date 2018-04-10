@@ -1,9 +1,9 @@
-# Projecto Língua Natural IST 2017/1028
+# Natural Language
 
-Grupo 4
+Group 4
 
-Henrique Lourenço 77459 henrique.lourenco@tecnico.ulisboa.pt
+[Henrique Lourenço](https://github.com/henrique93) 77459 henrique.lourenco@tecnico.ulisboa.pt
 
-José Touret 78215 jose.touret@tecnico.ulisboa.pt
+[José Touret](https://github.com/migueltouret) 78215 jose.touret@tecnico.ulisboa.pt
 
-# FIM
+# Project IST 2017/2018
